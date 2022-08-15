@@ -1,0 +1,36 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.heading:hover{
+    font-size: large;
+}
+.link{
+    background-color: black;
+    border-radius: 10px;
+    width: 80px;
+    float: right;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
+
+
+footer
+{
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 3;
+    position: fixed;
+    bottom: 0;
+    letter-spacing: 2px;
+}
